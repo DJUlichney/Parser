@@ -1,0 +1,7 @@
+                             Number of tokens: 0
+                      Number of unique tokens: 0
+              Average length of unique tokens: There are no tokens to calculate an average with!
+                         Average token length: There are no tokens to calculate an average with!
+                         Number of characters: 0
+                  Number of unique characters: 0
+Average number of uses for a unique character: There are no characters to calculate an average with!
